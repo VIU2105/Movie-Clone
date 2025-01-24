@@ -1,0 +1,16 @@
+{
+  "name": "hotstar-clone",
+  "version": "1.0.0",
+  "description": "A simplified Hotstar clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "range-parser": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
